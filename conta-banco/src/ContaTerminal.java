@@ -24,6 +24,7 @@ public class ContaTerminal {
             System.out.println("Conta criada para:" + nome);
             System.out.println("CPF:"+ cpf);
             System.out.println("RG:" + rg );
+            System.out.println("Sua agencia:0002 e conta: 054669-9:");
         }
 
         
